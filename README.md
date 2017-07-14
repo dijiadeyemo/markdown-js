@@ -224,7 +224,7 @@ contributors section of [package.json] too if you want to.
 
 [package.json]: https://github.com/evilstreak/markdown-js/blob/master/package.json
 
-## License
+## License
 
 Released under the MIT license.
 
